@@ -53,11 +53,22 @@ Follow these steps to run the project locally:
 
 ```
 news-network/
-├── css/
-│   ├── styles.css
-├── js/
-│   ├── app.js
-├── index.html
+├── src/
+│   ├── main/
+│   │   ├── resources/
+│   │   │   ├── static/
+│   │   │   │   ├── js/
+│   │   │   │   │   ├── script.js
+│   │   │   │   ├── assets/
+│   │   │   │   │   ├── logo.png
+│   │   │   │   ├── images/
+│   │   │   │   │   ├── homepage.png
+│   │   │   │   │   ├── keyword search.png
+│   │   │   ├── templates/
+│   │   │   │   ├── css/
+│   │   │   │   │   ├── style.css
+│   │   │   │   ├── html/
+│   │   │   │   │   ├── index.html
 ```
 
 ---
