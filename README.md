@@ -65,6 +65,7 @@ news-network/
 ## Demo
 
 ### Homepage
+![homepage](https://github.com/user-attachments/assets/9b0e1a2d-ce0a-497c-b45d-ce3c02268329)
 
 src/main/resources/static/images/homepage.png
 
@@ -85,7 +86,7 @@ src/main/resources/static/images/keyword search.png
 
 ## Contact
 
-Maintainer: [Your Name]
+Maintainer: Manoj Modhale
 
 - GitHub: [https://github.com/ManojModhale](https://github.com/ManojModhale)
 - Email: [manojmodhale2001@gmail.com](mailto\:manojmodhale2001@gmail.com)
