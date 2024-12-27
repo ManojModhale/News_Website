@@ -67,11 +67,8 @@ news-network/
 ### Homepage
 ![homepage](https://github.com/user-attachments/assets/9b0e1a2d-ce0a-497c-b45d-ce3c02268329)
 
-src/main/resources/static/images/homepage.png
-
 ### Results Page
-
-src/main/resources/static/images/keyword search.png
+![keyword search](https://github.com/user-attachments/assets/e6f1f25f-88b9-4d73-9345-8b2586a3303c)
 
 ---
 
