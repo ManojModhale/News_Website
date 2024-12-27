@@ -20,6 +20,7 @@
 - **Frontend**: HTML, CSS, Bootstrap
 - **Logic and Interaction**: JavaScript
 - **Data Fetching**: REST APIs for retrieving news articles
+- **Server**: SpringBoot with port = 8080
 
 ---
 
